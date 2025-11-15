@@ -42,10 +42,5 @@ I'm a passionate developer who loves building bots, automating workflows, and ma
 
 ---
 
-### 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/144126010642792449)
-
----
-
 > _"Keep it simple. Keep it clean. Automate everything."_ ⚙️
 
